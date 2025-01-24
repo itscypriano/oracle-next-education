@@ -1,2 +1,4 @@
-# oracle-next-education
-O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
+# 👽 ONE: Oracle Next Education
+
+Repositório dedicado a documentar minhas atividades enquanto participante do programa ONE, parceria da Oracle + Alura para Data Science.
+***
