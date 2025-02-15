@@ -11,4 +11,6 @@ Study period dedicated to courses for introductory programming with JavaScript /
 
 Some programming logic exercises were done in JavaScript, making use of functions, arrays, and manipulating HTML tags within the scripts. You can check out some of these exercises through [this](https://github.com/itscypriano/oracle-next-education/blob/main/exercicios-curso2.js).
 
-A challenge was also proposed, which consisted of building a script where the user could input names, and by clicking a "Draw" button, those names would be passed through a function that randomly selects one name using JavaScript.
+A challenge was also proposed, which consisted of building a script where the user could input names, and by clicking a "Draw" button, those names would be passed through a function that randomly selects one name using JavaScript:
+
+![pic](./challenge-amigo-secreto_pt-main/header/print2.png)
