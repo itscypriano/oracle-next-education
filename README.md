@@ -14,3 +14,5 @@ Some programming logic exercises were done in JavaScript, making use of function
 A challenge was also proposed, which consisted of building a script where the user could input names, and by clicking a "Draw" button, those names would be passed through a function that randomly selects one name using JavaScript:
 
 ![pic](./challenge-amigo-secreto_pt-main/header/print2.png)
+
+You can try it by yourself [here](https://itscypriano.github.io/challenge-amigosecreto-ONE/)
