@@ -1,6 +1,6 @@
 # CHALLENGE AMIGO SECRETO 🎭
 
-![pic](./header/print-amigosecreto.png)
+![pic](./header/print1.png)
 <center><i><b>Desafio proposto pelo programa de estudos Oracle One</b></i></center>
 
 <br>
@@ -13,4 +13,4 @@ O código disponibilizado está documentado praticamente linha a linha!
 
 O resultado final foi de um site funcional que atende os requisistos propostos pelo Oracle One:
 
-![pic](./header/print-amigosecreto-exd.png)
+![pic](./header/print2.png)
