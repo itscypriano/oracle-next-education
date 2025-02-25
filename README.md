@@ -5,14 +5,23 @@
 
 <br>
 
-<b>15.01 ~ 18.03</b>
+## 15.01 ~ 18.03
 
 Study period dedicated to courses for introductory programming with JavaScript / HTML / CSS and personal development focused on time management and emotional intelligence, as well as learning to use tools such as Trello, Git & GitHub.
 
-Some programming logic exercises were done in JavaScript, making use of functions, arrays, and manipulating HTML tags within the scripts. You can check out some of these exercises through [this](https://github.com/itscypriano/oracle-next-education/blob/main/exercicios-curso2.js).
+Some programming logic exercises were done in JavaScript, making use of functions, arrays, and manipulating HTML tags within the scripts. You can check out some of these exercises through [this](https://github.com/itscypriano/oracle-next-education/blob/main/exercicios-curso2.jvs).
 
+### Secret Santa Challenge
 A challenge was also proposed, which consisted of building a script where the user could input names, and by clicking a "Draw" button, those names would be passed through a function that randomly selects one name using JavaScript:
 
 ![pic](./challenge-amigo-secreto_pt-main/header/print2.png)
 
 You can try it by yourself [here](https://itscypriano.github.io/challenge-amigosecreto-ONE/)
+
+### 7-Days-Challenge
+
+This schedule consisted of solving 1 challenge per day for a week to reinforce some basic programming and JavaScript concepts.
+
+* [Challenge 1](./desafio1.js)
+>A challenge that aimed to reinforce learning about comparison operators
+
